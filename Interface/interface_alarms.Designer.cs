@@ -28,12 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(interface_alarms));
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.led_green = new System.Windows.Forms.PictureBox();
             this.led_red = new System.Windows.Forms.PictureBox();
             this.stop_alarm = new System.Windows.Forms.Button();
+            this.timer_alarms = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.led_green)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.led_red)).BeginInit();
             this.SuspendLayout();
@@ -94,6 +96,11 @@
             this.stop_alarm.UseVisualStyleBackColor = false;
             this.stop_alarm.Click += new System.EventHandler(this.stop_alarm_Click);
             // 
+            // timer_alarms
+            // 
+            this.timer_alarms.Interval = 500;
+            this.timer_alarms.Tick += new System.EventHandler(this.timer_alarms_Tick);
+            // 
             // interface_alarms
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -120,5 +127,6 @@
         private System.Windows.Forms.PictureBox led_green;
         private System.Windows.Forms.PictureBox led_red;
         private System.Windows.Forms.Button stop_alarm;
+        private System.Windows.Forms.Timer timer_alarms;
     }
 }
