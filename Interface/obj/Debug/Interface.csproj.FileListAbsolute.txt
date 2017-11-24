@@ -1,0 +1,42 @@
+C:\Users\Lucas\OneDrive\Desktop\SEAI Interface\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Lucas\OneDrive\Desktop\SEAI Interface\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Lucas\OneDrive\Desktop\SEAI Interface\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Lucas\OneDrive\Desktop\SEAI Interface\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\OneDrive\Desktop\SEAI Interface\Interface\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\Lucas\OneDrive\Desktop\SEAI Interface\Interface\Interface\obj\Debug\Interface.interface_alarms.resources
+C:\Users\Lucas\OneDrive\Desktop\SEAI Interface\Interface\Interface\obj\Debug\Interface.interface_transformer.resources
+C:\Users\Lucas\OneDrive\Desktop\SEAI Interface\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Lucas\OneDrive\Desktop\SEAI Interface\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\Lucas\OneDrive\Desktop\SEAI Interface\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Desktop\SEAI Interface\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Lucas\OneDrive\Desktop\SEAI Interface\Interface\Interface\obj\Debug\Interface.pdb
+C:\Users\Lucas\OneDrive\Desktop\interface\Interface\Interface\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\Lucas\OneDrive\Desktop\interface\Interface\Interface\Interface\obj\Debug\Interface.interface_alarms.resources
+C:\Users\Lucas\OneDrive\Desktop\interface\Interface\Interface\Interface\obj\Debug\Interface.interface_circuit_breakers.resources
+C:\Users\Lucas\OneDrive\Desktop\interface\Interface\Interface\Interface\obj\Debug\Interface.interface_disconnector.resources
+C:\Users\Lucas\OneDrive\Desktop\interface\Interface\Interface\Interface\obj\Debug\Interface.interface_transformer.resources
+C:\Users\Lucas\OneDrive\Desktop\interface\Interface\Interface\Interface\obj\Debug\Interface.Menu.resources
+C:\Users\Lucas\OneDrive\Desktop\interface\Interface\Interface\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Lucas\OneDrive\Desktop\interface\Interface\Interface\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\Lucas\OneDrive\Desktop\interface\Interface\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Desktop\interface\Interface\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Lucas\OneDrive\Desktop\interface\Interface\Interface\Interface\obj\Debug\Interface.pdb
+C:\Users\Lucas\OneDrive\Desktop\interface\Interface\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Lucas\OneDrive\Desktop\interface\Interface\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Lucas\OneDrive\Desktop\interface\Interface\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Lucas\OneDrive\Desktop\interface\Interface\Interface\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Beatriz\Desktop\Proj\Inter\Interfaceatualizada\Interface\bin\Debug\Interface.exe.config
+C:\Users\Beatriz\Desktop\Proj\Inter\Interfaceatualizada\Interface\bin\Debug\Interface.exe
+C:\Users\Beatriz\Desktop\Proj\Inter\Interfaceatualizada\Interface\bin\Debug\Interface.pdb
+C:\Users\Beatriz\Desktop\Proj\Inter\Interfaceatualizada\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Beatriz\Desktop\Proj\Inter\Interfaceatualizada\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\Beatriz\Desktop\Proj\Inter\Interfaceatualizada\Interface\obj\Debug\Interface.interface_alarms.resources
+C:\Users\Beatriz\Desktop\Proj\Inter\Interfaceatualizada\Interface\obj\Debug\Interface.interface_circuit_breakers.resources
+C:\Users\Beatriz\Desktop\Proj\Inter\Interfaceatualizada\Interface\obj\Debug\Interface.interface_disconnector.resources
+C:\Users\Beatriz\Desktop\Proj\Inter\Interfaceatualizada\Interface\obj\Debug\Interface.interface_transformer.resources
+C:\Users\Beatriz\Desktop\Proj\Inter\Interfaceatualizada\Interface\obj\Debug\Interface.Menu.resources
+C:\Users\Beatriz\Desktop\Proj\Inter\Interfaceatualizada\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Beatriz\Desktop\Proj\Inter\Interfaceatualizada\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\Beatriz\Desktop\Proj\Inter\Interfaceatualizada\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Beatriz\Desktop\Proj\Inter\Interfaceatualizada\Interface\obj\Debug\Interface.exe
+C:\Users\Beatriz\Desktop\Proj\Inter\Interfaceatualizada\Interface\obj\Debug\Interface.pdb
