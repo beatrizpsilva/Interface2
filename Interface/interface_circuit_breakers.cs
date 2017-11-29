@@ -23,5 +23,10 @@ namespace Interface
         {
             label_result2.Text = Time_c.ToString();
         }
+
+        private void Table_Flaws_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
