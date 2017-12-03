@@ -128,6 +128,7 @@
             // 
             // interface_transformer1
             // 
+            this.interface_transformer1.AutoSize = true;
             this.interface_transformer1.BackColor = System.Drawing.Color.White;
             this.interface_transformer1.Location = new System.Drawing.Point(1, 59);
             this.interface_transformer1.Name = "interface_transformer1";
@@ -169,8 +170,7 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(776, 550);
             this.Controls.Add(this.Bdisconnector);
@@ -184,8 +184,11 @@
             this.Controls.Add(this.menu1);
             this.Controls.Add(this.Bmenu);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 

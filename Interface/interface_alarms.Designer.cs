@@ -86,6 +86,7 @@
             // 
             // stop_alarm
             // 
+            this.stop_alarm.AutoSize = true;
             this.stop_alarm.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.stop_alarm.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.stop_alarm.Location = new System.Drawing.Point(331, 374);

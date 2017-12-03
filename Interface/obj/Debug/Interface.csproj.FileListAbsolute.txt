@@ -79,3 +79,13 @@ C:\Users\Beatriz\Desktop\Proj\Interface2\Interface2\Interface\bin\Debug\fi\Npgsq
 C:\Users\Beatriz\Desktop\Proj\Interface2\Interface2\Interface\bin\Debug\fr\Npgsql.resources.dll
 C:\Users\Beatriz\Desktop\Proj\Interface2\Interface2\Interface\bin\Debug\ja\Npgsql.resources.dll
 C:\Users\Beatriz\Desktop\Proj\Interface2\Interface2\Interface\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Lucas\OneDrive\Desktop\Pasta da bia\Interface2\Interface\bin\Debug\Mono.Security.dll
+C:\Users\Lucas\OneDrive\Desktop\Pasta da bia\Interface2\Interface\bin\Debug\Npgsql.dll
+C:\Users\Lucas\OneDrive\Desktop\Pasta da bia\Interface2\Interface\bin\Debug\Npgsql.pdb
+C:\Users\Lucas\OneDrive\Desktop\Pasta da bia\Interface2\Interface\bin\Debug\Npgsql.xml
+C:\Users\Lucas\OneDrive\Desktop\Pasta da bia\Interface2\Interface\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Lucas\OneDrive\Desktop\Pasta da bia\Interface2\Interface\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Lucas\OneDrive\Desktop\Pasta da bia\Interface2\Interface\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Lucas\OneDrive\Desktop\Pasta da bia\Interface2\Interface\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Lucas\OneDrive\Desktop\Pasta da bia\Interface2\Interface\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Lucas\OneDrive\Desktop\Pasta da bia\Interface2\Interface\bin\Debug\zh-CN\Npgsql.resources.dll
