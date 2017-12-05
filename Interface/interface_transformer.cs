@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Drawing;
@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Modelation;
 
 namespace Interface
 {
@@ -25,7 +26,8 @@ namespace Interface
 
         private void lifetime_Click(object sender, EventArgs e)
         {
-            label_result1.Text = Time_t.ToString();
+            Health_index HI_TR_off = new Health_index();
+            label_result1.Text =HI_TR_off.Health_Index_Tr_Offline(4,50,1,0,'A').ToString();
         }
 
         private void interface_transformer_Load(object sender, EventArgs e)
