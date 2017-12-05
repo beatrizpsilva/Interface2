@@ -28,5 +28,10 @@ namespace Interface
         {
             label_result3.Text = time_d.ToString();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

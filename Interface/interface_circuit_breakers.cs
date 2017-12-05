@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Conections;
-//using Npgsql;
 using System.Windows.Forms;
 
 namespace Interface
@@ -39,7 +38,6 @@ namespace Interface
                 Console.WriteLine("Error: ");
                 Time_c = 5;
                 label_result2.Text = Time_c.ToString();
-
 
             }
 

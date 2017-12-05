@@ -28,9 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(interface_disconnector));
             this.label1 = new System.Windows.Forms.Label();
             this.lifetime = new System.Windows.Forms.Button();
             this.label_result3 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -48,7 +51,7 @@
             // 
             this.lifetime.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.lifetime.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lifetime.Location = new System.Drawing.Point(358, 216);
+            this.lifetime.Location = new System.Drawing.Point(354, 311);
             this.lifetime.Name = "lifetime";
             this.lifetime.Size = new System.Drawing.Size(104, 40);
             this.lifetime.TabIndex = 3;
@@ -60,22 +63,35 @@
             // 
             this.label_result3.AutoSize = true;
             this.label_result3.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label_result3.Location = new System.Drawing.Point(378, 320);
+            this.label_result3.Location = new System.Drawing.Point(376, 370);
             this.label_result3.Name = "label_result3";
             this.label_result3.Size = new System.Drawing.Size(68, 22);
             this.label_result3.TabIndex = 6;
             this.label_result3.Text = "Result";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
+            this.pictureBox1.Location = new System.Drawing.Point(296, 173);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(225, 115);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox1.TabIndex = 7;
+            this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // interface_disconnector
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label_result3);
             this.Controls.Add(this.lifetime);
             this.Controls.Add(this.label1);
             this.Name = "interface_disconnector";
             this.Size = new System.Drawing.Size(774, 482);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -86,5 +102,6 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button lifetime;
         private System.Windows.Forms.Label label_result3;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
