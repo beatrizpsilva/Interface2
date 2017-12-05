@@ -43,7 +43,6 @@ C:\Users\Beatriz\Desktop\Proj\Inter\Interfaceatualizada\Interface\obj\Debug\Inte
 C:\Users\Beatriz\Desktop\Proj\Interface2\Interface2\Interface\bin\Debug\Interface.exe.config
 C:\Users\Beatriz\Desktop\Proj\Interface2\Interface2\Interface\bin\Debug\Interface.exe
 C:\Users\Beatriz\Desktop\Proj\Interface2\Interface2\Interface\bin\Debug\Interface.pdb
-C:\Users\Beatriz\Desktop\Proj\Interface2\Interface2\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
 C:\Users\Beatriz\Desktop\Proj\Interface2\Interface2\Interface\obj\Debug\Interface.Form1.resources
 C:\Users\Beatriz\Desktop\Proj\Interface2\Interface2\Interface\obj\Debug\Interface.interface_alarms.resources
 C:\Users\Beatriz\Desktop\Proj\Interface2\Interface2\Interface\obj\Debug\Interface.interface_circuit_breakers.resources

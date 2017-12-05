@@ -37,5 +37,10 @@ namespace Interface
         {
 
         }
+
+        private void label_result1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

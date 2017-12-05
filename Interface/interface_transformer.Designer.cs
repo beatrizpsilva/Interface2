@@ -76,6 +76,7 @@
             this.label_result1.Size = new System.Drawing.Size(68, 22);
             this.label_result1.TabIndex = 5;
             this.label_result1.Text = "Result";
+            this.label_result1.Click += new System.EventHandler(this.label_result1_Click);
             // 
             // pictureBox1
             // 
