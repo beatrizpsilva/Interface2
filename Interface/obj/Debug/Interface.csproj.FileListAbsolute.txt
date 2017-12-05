@@ -88,3 +88,4 @@ C:\Users\Lucas\OneDrive\Desktop\Pasta da bia\Interface2\Interface\bin\Debug\fi\N
 C:\Users\Lucas\OneDrive\Desktop\Pasta da bia\Interface2\Interface\bin\Debug\fr\Npgsql.resources.dll
 C:\Users\Lucas\OneDrive\Desktop\Pasta da bia\Interface2\Interface\bin\Debug\ja\Npgsql.resources.dll
 C:\Users\Lucas\OneDrive\Desktop\Pasta da bia\Interface2\Interface\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Beatriz\Desktop\Proj\Interface2\Interface2\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
