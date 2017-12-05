@@ -1,0 +1,7 @@
+C:\Users\Pedro Breda\source\repos\CircuitBreakerHealtIndex\CircuitBreakerHealtIndex\obj\Debug\CircuitBreakerHealtIndex.csprojResolveAssemblyReference.cache
+C:\Users\Pedro Breda\source\repos\CircuitBreakerHealtIndex\CircuitBreakerHealtIndex\obj\Debug\CircuitBreakerHealtIndex.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Breda\source\repos\CircuitBreakerHealtIndex\CircuitBreakerHealtIndex\bin\Debug\CircuitBreakerHealtIndex.exe.config
+C:\Users\Pedro Breda\source\repos\CircuitBreakerHealtIndex\CircuitBreakerHealtIndex\bin\Debug\CircuitBreakerHealtIndex.exe
+C:\Users\Pedro Breda\source\repos\CircuitBreakerHealtIndex\CircuitBreakerHealtIndex\bin\Debug\CircuitBreakerHealtIndex.pdb
+C:\Users\Pedro Breda\source\repos\CircuitBreakerHealtIndex\CircuitBreakerHealtIndex\obj\Debug\CircuitBreakerHealtIndex.exe
+C:\Users\Pedro Breda\source\repos\CircuitBreakerHealtIndex\CircuitBreakerHealtIndex\obj\Debug\CircuitBreakerHealtIndex.pdb
