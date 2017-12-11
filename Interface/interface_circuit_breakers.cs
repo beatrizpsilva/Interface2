@@ -8,20 +8,25 @@ using System.Text;
 using System.Threading.Tasks;
 using Conections;
 using System.Windows.Forms;
-using Modulation;
+using CircuitBreakerHealtIndex;
+using System.Threading;
 
 namespace Interface
 {
     public partial class interface_circuit_breakers : UserControl
     {
         int Time_c;
+        
         public interface_circuit_breakers()
         {
             InitializeComponent();
-            Time_c = 1;
+            Time_c = 50;
+            circularProgressBar1.Value = 100;
+            circularProgressBar1.Update();
+            circularProgressBar1.Text = circularProgressBar1.Value.ToString() + ('%');
         }
 
-        private void lifetime_Click(object sender, EventArgs e)
+        public void lifetime_Click(object sender, EventArgs e)
         { /*
             Conections.dbconnection ligacao = new dbconnection();
             
@@ -44,8 +49,17 @@ namespace Interface
 
 
             ligacao.CloseConn();*/
-            Health_index HI_CB = new Health_index();
-            label_result2.Text = HI_CB.Health_Index_CB(40, 20, 20, 40, 20, 20).ToString();
+          //CircuitBreakerHealtIndex.Program CBHI = new Program();
+          // label_result2.Text = CBHI.funcaoCBHI(40, 20, 20, 40, 20, 20).ToString();
+            label_result2.Text = Time_c.ToString();
+            for (int i = 100; i >= Time_c; i--)
+            {
+                Thread.Sleep(10);
+                circularProgressBar1.Value = i;
+                circularProgressBar1.Update();
+                circularProgressBar1.Text = i.ToString() + ('%');
+
+            }
         }
 
         private void Table_Flaws_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -53,6 +67,15 @@ namespace Interface
 
         }
 
+        public void circularProgressBar1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label_result2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 
     }

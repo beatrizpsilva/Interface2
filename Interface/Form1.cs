@@ -12,6 +12,8 @@ namespace Interface
 {
     public partial class Form1 : Form
     {
+        public object CircularProgressBar1 { get; private set; }
+
         public Form1()
         {
             InitializeComponent();
@@ -47,6 +49,7 @@ namespace Interface
         private void Bcircuitbreaker_Click(object sender, EventArgs e)
         {
             interface_circuit_breakers1.BringToFront();
+            
         }
 
         private void interface_transformer1_Load(object sender, EventArgs e)
@@ -54,8 +57,9 @@ namespace Interface
 
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        public void Form1_Load(object sender, EventArgs e)
         {
+            
 
         }
     }

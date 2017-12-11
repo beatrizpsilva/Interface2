@@ -89,3 +89,32 @@ C:\Users\Lucas\OneDrive\Desktop\Pasta da bia\Interface2\Interface\bin\Debug\fr\N
 C:\Users\Lucas\OneDrive\Desktop\Pasta da bia\Interface2\Interface\bin\Debug\ja\Npgsql.resources.dll
 C:\Users\Lucas\OneDrive\Desktop\Pasta da bia\Interface2\Interface\bin\Debug\zh-CN\Npgsql.resources.dll
 C:\Users\Beatriz\Desktop\Proj\Interface2\Interface2\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Source\Repos\Interface2\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Source\Repos\Interface2\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\Lucas\Source\Repos\Interface2\Interface\obj\Debug\Interface.interface_alarms.resources
+C:\Users\Lucas\Source\Repos\Interface2\Interface\obj\Debug\Interface.interface_circuit_breakers.resources
+C:\Users\Lucas\Source\Repos\Interface2\Interface\obj\Debug\Interface.interface_disconnector.resources
+C:\Users\Lucas\Source\Repos\Interface2\Interface\obj\Debug\Interface.interface_transformer.resources
+C:\Users\Lucas\Source\Repos\Interface2\Interface\obj\Debug\Interface.Menu.resources
+C:\Users\Lucas\Source\Repos\Interface2\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\Lucas\Source\Repos\Interface2\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\Lucas\Source\Repos\Interface2\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Source\Repos\Interface2\Interface\obj\Debug\Interface.exe
+C:\Users\Lucas\Source\Repos\Interface2\Interface\obj\Debug\Interface.pdb
+C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\Interface.exe.config
+C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\Interface.exe
+C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\Interface.pdb
+C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\Mono.Security.dll
+C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\Npgsql.dll
+C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\Npgsql.pdb
+C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\Npgsql.xml
+C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\CircularProgressBar.dll
+C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\WinFormAnimation.dll
+C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\CircularProgressBar.xml
+C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\WinFormAnimation.xml
