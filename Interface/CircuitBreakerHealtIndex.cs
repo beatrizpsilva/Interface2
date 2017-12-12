@@ -8,7 +8,8 @@ namespace CircuitBreakerHealtIndex
 {
      class Program
     {
-        public double funcaoCBHI(string[] args)
+        //  public double funcaoCBHI(string[] args
+        public double funcaoCBHI()
         {
             int xAge, xTrip, xOper, xIdle, MaxTrips, MaxOper;
             Double OperationScore, HealtIndex, IdleTimeScor, AgeScore;

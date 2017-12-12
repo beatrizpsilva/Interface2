@@ -15,12 +15,14 @@ namespace Interface
 {
     public partial class interface_circuit_breakers : UserControl
     {
-        int Time_c;
+        double Time_c;
         
         public interface_circuit_breakers()
         {
             InitializeComponent();
-            Time_c = 50;
+            CircuitBreakerHealtIndex.Program cbi = new CircuitBreakerHealtIndex.Program();
+
+            Time_c = cbi.funcaoCBHI();
             circularProgressBar1.Value = 100;
             circularProgressBar1.Update();
             circularProgressBar1.Text = circularProgressBar1.Value.ToString() + ('%');

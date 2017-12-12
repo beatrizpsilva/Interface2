@@ -118,3 +118,7 @@ C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\CircularProgressBar.d
 C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\WinFormAnimation.dll
 C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\CircularProgressBar.xml
 C:\Users\Lucas\Source\Repos\Interface2\Interface\bin\Debug\WinFormAnimation.xml
+C:\Users\Beatriz\Desktop\Proj\Interface2\Interface2\Interface\bin\Debug\CircularProgressBar.dll
+C:\Users\Beatriz\Desktop\Proj\Interface2\Interface2\Interface\bin\Debug\WinFormAnimation.dll
+C:\Users\Beatriz\Desktop\Proj\Interface2\Interface2\Interface\bin\Debug\CircularProgressBar.xml
+C:\Users\Beatriz\Desktop\Proj\Interface2\Interface2\Interface\bin\Debug\WinFormAnimation.xml
