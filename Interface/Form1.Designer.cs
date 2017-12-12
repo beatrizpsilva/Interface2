@@ -33,25 +33,30 @@
             this.Balarms = new System.Windows.Forms.Button();
             this.Bdisconnector = new System.Windows.Forms.Button();
             this.Bmenu = new System.Windows.Forms.Button();
+            this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.interface_transformer1 = new Interface.interface_transformer();
             this.interface_circuit_breakers1 = new Interface.interface_circuit_breakers();
             this.interface_disconnector1 = new Interface.interface_disconnector();
             this.interface_alarms1 = new Interface.interface_alarms();
             this.menu1 = new Interface.Menu();
+            this.tableLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // Btransformer
             // 
+            this.Btransformer.AutoSize = true;
+            this.Btransformer.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.Btransformer.BackColor = System.Drawing.Color.CadetBlue;
+            this.Btransformer.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Btransformer.FlatAppearance.BorderColor = System.Drawing.Color.CadetBlue;
             this.Btransformer.FlatAppearance.CheckedBackColor = System.Drawing.Color.CadetBlue;
             this.Btransformer.FlatAppearance.MouseDownBackColor = System.Drawing.Color.CadetBlue;
             this.Btransformer.FlatAppearance.MouseOverBackColor = System.Drawing.Color.CadetBlue;
             this.Btransformer.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Btransformer.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.Btransformer.Location = new System.Drawing.Point(311, 0);
+            this.Btransformer.Location = new System.Drawing.Point(311, 3);
             this.Btransformer.Name = "Btransformer";
-            this.Btransformer.Size = new System.Drawing.Size(155, 53);
+            this.Btransformer.Size = new System.Drawing.Size(148, 47);
             this.Btransformer.TabIndex = 4;
             this.Btransformer.Text = "Transformer";
             this.Btransformer.UseVisualStyleBackColor = false;
@@ -59,16 +64,19 @@
             // 
             // Bcircuitbreaker
             // 
+            this.Bcircuitbreaker.AutoSize = true;
+            this.Bcircuitbreaker.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.Bcircuitbreaker.BackColor = System.Drawing.Color.CadetBlue;
+            this.Bcircuitbreaker.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Bcircuitbreaker.FlatAppearance.BorderColor = System.Drawing.Color.CadetBlue;
             this.Bcircuitbreaker.FlatAppearance.CheckedBackColor = System.Drawing.Color.CadetBlue;
             this.Bcircuitbreaker.FlatAppearance.MouseDownBackColor = System.Drawing.Color.CadetBlue;
             this.Bcircuitbreaker.FlatAppearance.MouseOverBackColor = System.Drawing.Color.CadetBlue;
             this.Bcircuitbreaker.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Bcircuitbreaker.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.Bcircuitbreaker.Location = new System.Drawing.Point(466, 0);
+            this.Bcircuitbreaker.Location = new System.Drawing.Point(465, 3);
             this.Bcircuitbreaker.Name = "Bcircuitbreaker";
-            this.Bcircuitbreaker.Size = new System.Drawing.Size(155, 53);
+            this.Bcircuitbreaker.Size = new System.Drawing.Size(148, 47);
             this.Bcircuitbreaker.TabIndex = 5;
             this.Bcircuitbreaker.Text = "Circuit breaker";
             this.Bcircuitbreaker.UseVisualStyleBackColor = false;
@@ -76,16 +84,19 @@
             // 
             // Balarms
             // 
+            this.Balarms.AutoSize = true;
+            this.Balarms.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.Balarms.BackColor = System.Drawing.Color.CadetBlue;
+            this.Balarms.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Balarms.FlatAppearance.BorderColor = System.Drawing.Color.CadetBlue;
             this.Balarms.FlatAppearance.CheckedBackColor = System.Drawing.Color.CadetBlue;
             this.Balarms.FlatAppearance.MouseDownBackColor = System.Drawing.Color.CadetBlue;
             this.Balarms.FlatAppearance.MouseOverBackColor = System.Drawing.Color.CadetBlue;
             this.Balarms.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Balarms.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.Balarms.Location = new System.Drawing.Point(156, 0);
+            this.Balarms.Location = new System.Drawing.Point(157, 3);
             this.Balarms.Name = "Balarms";
-            this.Balarms.Size = new System.Drawing.Size(155, 53);
+            this.Balarms.Size = new System.Drawing.Size(148, 47);
             this.Balarms.TabIndex = 3;
             this.Balarms.Text = "Alarms";
             this.Balarms.UseVisualStyleBackColor = false;
@@ -93,16 +104,19 @@
             // 
             // Bdisconnector
             // 
+            this.Bdisconnector.AutoSize = true;
+            this.Bdisconnector.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.Bdisconnector.BackColor = System.Drawing.Color.CadetBlue;
+            this.Bdisconnector.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Bdisconnector.FlatAppearance.BorderColor = System.Drawing.Color.CadetBlue;
             this.Bdisconnector.FlatAppearance.CheckedBackColor = System.Drawing.Color.CadetBlue;
             this.Bdisconnector.FlatAppearance.MouseDownBackColor = System.Drawing.Color.CadetBlue;
             this.Bdisconnector.FlatAppearance.MouseOverBackColor = System.Drawing.Color.CadetBlue;
             this.Bdisconnector.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Bdisconnector.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.Bdisconnector.Location = new System.Drawing.Point(621, 0);
+            this.Bdisconnector.Location = new System.Drawing.Point(619, 3);
             this.Bdisconnector.Name = "Bdisconnector";
-            this.Bdisconnector.Size = new System.Drawing.Size(155, 53);
+            this.Bdisconnector.Size = new System.Drawing.Size(152, 47);
             this.Bdisconnector.TabIndex = 6;
             this.Bdisconnector.Text = "Disconnector";
             this.Bdisconnector.UseVisualStyleBackColor = false;
@@ -110,7 +124,10 @@
             // 
             // Bmenu
             // 
+            this.Bmenu.AutoSize = true;
+            this.Bmenu.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.Bmenu.BackColor = System.Drawing.Color.CadetBlue;
+            this.Bmenu.Dock = System.Windows.Forms.DockStyle.Fill;
             this.Bmenu.FlatAppearance.BorderColor = System.Drawing.Color.CadetBlue;
             this.Bmenu.FlatAppearance.BorderSize = 0;
             this.Bmenu.FlatAppearance.CheckedBackColor = System.Drawing.Color.CadetBlue;
@@ -118,13 +135,34 @@
             this.Bmenu.FlatAppearance.MouseOverBackColor = System.Drawing.Color.CadetBlue;
             this.Bmenu.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Bmenu.ForeColor = System.Drawing.Color.WhiteSmoke;
-            this.Bmenu.Location = new System.Drawing.Point(1, 0);
+            this.Bmenu.Location = new System.Drawing.Point(3, 3);
             this.Bmenu.Name = "Bmenu";
-            this.Bmenu.Size = new System.Drawing.Size(155, 53);
+            this.Bmenu.Size = new System.Drawing.Size(148, 47);
             this.Bmenu.TabIndex = 2;
             this.Bmenu.Text = "Menu";
             this.Bmenu.UseVisualStyleBackColor = false;
             this.Bmenu.Click += new System.EventHandler(this.Bmenu_Click);
+            // 
+            // tableLayoutPanel1
+            // 
+            this.tableLayoutPanel1.AutoSize = true;
+            this.tableLayoutPanel1.ColumnCount = 5;
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.tableLayoutPanel1.Controls.Add(this.Bmenu, 0, 0);
+            this.tableLayoutPanel1.Controls.Add(this.Bdisconnector, 4, 0);
+            this.tableLayoutPanel1.Controls.Add(this.Balarms, 1, 0);
+            this.tableLayoutPanel1.Controls.Add(this.Btransformer, 2, 0);
+            this.tableLayoutPanel1.Controls.Add(this.Bcircuitbreaker, 3, 0);
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(1, 0);
+            this.tableLayoutPanel1.Name = "tableLayoutPanel1";
+            this.tableLayoutPanel1.RowCount = 1;
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(774, 53);
+            this.tableLayoutPanel1.TabIndex = 7;
             // 
             // interface_transformer1
             // 
@@ -171,22 +209,22 @@
             // Form1
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Inherit;
+            this.AutoSize = true;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(776, 550);
-            this.Controls.Add(this.Bdisconnector);
+            this.Controls.Add(this.tableLayoutPanel1);
             this.Controls.Add(this.interface_transformer1);
-            this.Controls.Add(this.Bcircuitbreaker);
             this.Controls.Add(this.interface_circuit_breakers1);
-            this.Controls.Add(this.Btransformer);
             this.Controls.Add(this.interface_disconnector1);
-            this.Controls.Add(this.Balarms);
             this.Controls.Add(this.interface_alarms1);
             this.Controls.Add(this.menu1);
-            this.Controls.Add(this.Bmenu);
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
+            this.tableLayoutPanel1.ResumeLayout(false);
+            this.tableLayoutPanel1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -203,6 +241,7 @@
         private System.Windows.Forms.Button Balarms;
         private System.Windows.Forms.Button Bdisconnector;
         private System.Windows.Forms.Button Bmenu;
+        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
     }
 }
 
